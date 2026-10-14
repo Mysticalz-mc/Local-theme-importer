@@ -1,12 +1,12 @@
 {
   "name": "Local Theme Importer",
-  "description": "Import Kettu spec 2 themes from a JSON file or pasted text. Experimental.",
+  "description": "Import local Kettu spec 2 themes with Themes++ metadata and transparency preserved.",
   "authors": [
     {
       "name": "Nova"
     }
   ],
   "main": "index.js",
-  "version": "0.1.0",
-  "hash": "274bef01156e1e70885eac7861de9721e331ca0d4ec9851772969d9d91a38928"
+  "version": "0.2.0",
+  "hash": "4249d5b5fca1c1ddd54c03bb5abf8db9f09d0bd2b50d37085c40de3ff7a6e729"
 }
