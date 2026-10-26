@@ -1,0 +1,12 @@
+{
+  "name": "Local Theme Importer",
+  "description": "Import local Kettu themes and refresh the selected theme after launch to restore chat colors.",
+  "authors": [
+    {
+      "name": "Nova"
+    }
+  ],
+  "main": "index.js",
+  "version": "0.3.1",
+  "hash": "1cb9cf51dde40576393d1be763cc38ce6bc2e396ca94646c00bc8f23c70f042e"
+}
